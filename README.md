@@ -27,3 +27,27 @@ Suppose we have the IP address `192.168.0.0` with a subnet mask of `255.255.255.
 4. **Calculating Subnet Ranges:**
    - With the new subnet mask, each subnet will have 64 addresses (2^6).
    - We'll have 4 subnets: `192.168.0.0/26`, `192.168.0.64/26`, `192.168.0.128/26`, and `192.168.0.192/26`.
+
+   - **Subnet 1 (192.168.0.0/26):**
+     - Network Address: `192.168.0.0`
+     - Usable Host Range: `192.168.0.1 - 192.168.0.62`
+     - Broadcast Address: `192.168.0.63`
+
+   - **Subnet 2 (192.168.0.64/26):**
+     - Network Address: `192.168.0.64`
+     - Usable Host Range: `192.168.0.65 - 192.168.0.126`
+     - Broadcast Address: `192.168.0.127`
+
+   - **Subnet 3 (192.168.0.128/26):**
+     - Network Address: `192.168.0.128`
+     - Usable Host Range: `192.168.0.129 - 192.168.0.190`
+     - Broadcast Address: `192.168.0.191`
+
+   - **Subnet 4 (192.168.0.192/26):**
+     - Network Address: `192.168.0.192`
+     - Usable Host Range: `192.168.0.193 - 192.168.0.254`
+     - Broadcast Address: `192.168.0.255`
+
+   - **Note:** The first address in each subnet is reserved for the network address, and the last address is reserved for the broadcast address.
+
+This is a basic example of subnetting. In practice, subnetting becomes more complex when dealing with different subnet masks, VLSM (Variable Length Subnet Masking), and routing between subnets. Understanding subnetting is essential for network administrators and engineers.
