@@ -65,3 +65,15 @@ This is a basic example of subnetting. In practice, subnetting becomes more comp
 - **FTP/SFTP**: File Transfer Protocol (FTP) and Secure File Transfer Protocol (SFTP) are used for transferring files over a network.
 
 - **SMTP/POP3/IMAP**: Simple Mail Transfer Protocol (SMTP) is used for sending emails, while POP3 (Post Office Protocol version 3) and IMAP (Internet Message Access Protocol) are used for receiving emails.
+
+### 5. **Ports**
+
+- Ports are virtual endpoints used for communication between different processes on a network. They allow a single device to host multiple services.
+
+- **Well-known Ports**: Ports ranging from 0 to 1023 are reserved for well-known services like HTTP (80), HTTPS (443), FTP (21), etc.
+
+### 6. **Firewalls and Routers**
+
+- **Firewall**: A firewall is a security device that filters incoming and outgoing network traffic based on a defined set of security rules. It helps protect a network from unauthorized access.
+
+- **Router**: A router is a networking device that forwards data packets between computer networks. It acts as a central hub for data traffic in a network.
