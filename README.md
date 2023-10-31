@@ -10,6 +10,9 @@ Networking involves the practice of connecting multiple computing devices togeth
 
 - **Subnetting**: Subnetting involves dividing an IP network into multiple sub-networks to improve performance and security. It helps in efficiently utilizing IP addresses.Subnetting is the process of dividing an IP network into sub-networks to improve performance and security. It involves creating smaller, more manageable network segments. Let's go through an example of subnetting an IPv4 address.
 
+![image](https://github.com/Pavan-1997/DevOps_Networking_Basics/assets/32020205/ad44611d-15a4-4d94-bb67-5f0bbab92f45)
+
+
 **Example:**
 
 Suppose we have the IP address `192.168.0.0` with a subnet mask of `255.255.255.0` (or `/24` in CIDR notation).
