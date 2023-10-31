@@ -77,3 +77,21 @@ This is a basic example of subnetting. In practice, subnetting becomes more comp
 - **Firewall**: A firewall is a security device that filters incoming and outgoing network traffic based on a defined set of security rules. It helps protect a network from unauthorized access.
 
 - **Router**: A router is a networking device that forwards data packets between computer networks. It acts as a central hub for data traffic in a network.
+
+### 7. **DNS (Domain Name System)**
+
+- DNS translates human-readable domain names (e.g., www.example.com) into IP addresses that are used by network devices to locate each other on the internet.
+
+### 8. **OSI Model**
+
+- The OSI (Open Systems Interconnection) model is a conceptual framework used to understand network interactions. It's divided into seven layers, each responsible for different functions in the communication process.
+
+   1. Physical Layer
+   2. Data Link Layer
+   3. Network Layer
+   4. Transport Layer
+   5. Session Layer
+   6. Presentation Layer
+   7. Application Layer
+
+These are some fundamental networking concepts and protocols that form the basis of understanding how data is transmitted and received over networks. It's essential for anyone working with networked systems or services.
