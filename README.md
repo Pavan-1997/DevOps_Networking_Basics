@@ -72,6 +72,9 @@ This is a basic example of subnetting. In practice, subnetting becomes more comp
 
 - **Well-known Ports**: Ports ranging from 0 to 1023 are reserved for well-known services like HTTP (80), HTTPS (443), FTP (21), etc.
 
+![image](https://github.com/Pavan-1997/DevOps_Networking_Basics/assets/32020205/4a2a0f94-fb19-482a-9d45-913feb5c9e7c)
+
+
 ### 6. **Firewalls and Routers**
 
 - **Firewall**: A firewall is a security device that filters incoming and outgoing network traffic based on a defined set of security rules. It helps protect a network from unauthorized access.
