@@ -51,3 +51,17 @@ Suppose we have the IP address `192.168.0.0` with a subnet mask of `255.255.255.
    - **Note:** The first address in each subnet is reserved for the network address, and the last address is reserved for the broadcast address.
 
 This is a basic example of subnetting. In practice, subnetting becomes more complex when dealing with different subnet masks, VLSM (Variable Length Subnet Masking), and routing between subnets. Understanding subnetting is essential for network administrators and engineers.
+
+### 3. **MAC Address**
+
+- A MAC (Media Access Control) address is a hardware address assigned to a network interface card. It's unique to each device and is used for communication within a local network.
+
+### 4. **Protocols**
+
+- **TCP/IP**: Transmission Control Protocol/Internet Protocol is the suite of communication protocols used for connecting hosts on the internet. It includes protocols like TCP (Transmission Control Protocol) and IP (Internet Protocol).
+
+- **HTTP/HTTPS**: HyperText Transfer Protocol (HTTP) and Secure HTTP (HTTPS) are protocols used for transferring data over the internet. HTTPS is secured using SSL/TLS encryption.
+
+- **FTP/SFTP**: File Transfer Protocol (FTP) and Secure File Transfer Protocol (SFTP) are used for transferring files over a network.
+
+- **SMTP/POP3/IMAP**: Simple Mail Transfer Protocol (SMTP) is used for sending emails, while POP3 (Post Office Protocol version 3) and IMAP (Internet Message Access Protocol) are used for receiving emails.
